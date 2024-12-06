@@ -1,5 +1,5 @@
 import commonAPI from "./commonAPI";
-import SERVER_URL from "./serverurl";
+import SERVER_URL from "./serverUrl";
 
 
 
